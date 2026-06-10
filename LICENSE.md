@@ -1,4 +1,4 @@
-# 
+# Custom Cline templates. Featuring low-latency-processing and multi-language-support — optimized for maximum performance and efficiency.
 
 
 
